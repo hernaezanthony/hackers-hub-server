@@ -1,0 +1,14 @@
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\bin\Debug\netcoreapp2.1\HackersHubV2.deps.json
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\bin\Debug\netcoreapp2.1\HackersHubV2.runtimeconfig.json
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\bin\Debug\netcoreapp2.1\HackersHubV2.runtimeconfig.dev.json
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\bin\Debug\netcoreapp2.1\HackersHubV2.dll
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.csprojAssemblyReference.cache
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.csproj.CoreCompileInputs.cache
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.RazorAssemblyInfo.cache
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.RazorAssemblyInfo.cs
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.AssemblyInfoInputs.cache
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.AssemblyInfo.cs
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.RazorTargetAssemblyInfo.cache
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\bin\Debug\netcoreapp2.1\HackersHubV2.pdb
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.dll
+c:\users\ahernaez\source\repos\HackersHubV2\HackersHubV2\obj\Debug\netcoreapp2.1\HackersHubV2.pdb
